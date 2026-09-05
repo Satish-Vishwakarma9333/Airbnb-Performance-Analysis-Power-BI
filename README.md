@@ -375,37 +375,41 @@ Review frequency analysis can help identify different customer engagement patter
 
 # 🖼️ Dashboard Screenshots
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 <img width="935" height="557" alt="Screenshot 2026-09-05 135541" src="https://github.com/user-attachments/assets/6f68d10d-bf1e-401b-aa8b-96bc91998168" />
 
 ---
 
-## 🌍 Market Share Analysis
+## Market Share Analysis
 <img width="531" height="307" alt="Screenshot 2026-09-05 135616" src="https://github.com/user-attachments/assets/fe5aaff3-1187-4f81-a40c-b7782919665f" />
 
 ---
 
-## ⭐ Rating Analysis
+## Rating Analysis
 <img width="780" height="333" alt="Screenshot 2026-09-05 135709" src="https://github.com/user-attachments/assets/f75ca5f0-3e6a-4c1e-ae01-524972932d3f" />
 
 ---
+## Average Rating By City
+<img width="783" height="328" alt="Screenshot 2026-09-05 145547" src="https://github.com/user-attachments/assets/965a7328-2bd7-490e-b7ec-38f0735d5fe2" />
 
-## 💬 Review Frequency Analysis
+---
+
+## Review Frequency Analysis
 <img width="465" height="282" alt="Screenshot 2026-09-05 135758" src="https://github.com/user-attachments/assets/0e3a6b2c-57a9-4159-a9cb-0c97b3a9dc44" />
 
 ---
 
-## 📅 Seasonality Analysis
+## Seasonality Analysis
 <img width="467" height="351" alt="Screenshot 2026-09-05 135819" src="https://github.com/user-attachments/assets/e7017b5a-e7ea-408d-952c-2da1f177749d" />
 
 ---
 
-## 🤝 Host Trust Analysis
+## Host Trust Analysis
 <img width="457" height="528" alt="Screenshot 2026-09-05 135859" src="https://github.com/user-attachments/assets/743232b1-8f7d-47ff-aa9f-f6d7368ac700" />
 
 ---
 
-## 🏡 Property Type & Pricing Analysis
+## Property Type & Pricing Analysis
 <img width="371" height="185" alt="Screenshot 2026-09-05 140003" src="https://github.com/user-attachments/assets/1fa86829-a3b3-4079-b91e-880d96a02fa4" />
 
 ---
