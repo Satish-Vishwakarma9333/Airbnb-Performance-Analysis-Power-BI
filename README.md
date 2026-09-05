@@ -1,6 +1,6 @@
-# 🏠 Airbnb Performance Analysis | Power BI
+# Airbnb Performance Analysis | Power BI
 
-> 📊 An end-to-end Power BI project analyzing Airbnb listings, reviews, market share, ratings, seasonality, and host trust across major global cities.
+Power BI analysis of Airbnb listings, pricing, ratings & reviews to uncover market trends and actionable business insights.
 
 ---
 
